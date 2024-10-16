@@ -8,7 +8,7 @@ on:
       - 'master'
     paths:
       - 'writeup.pdf'
-      - 'README.md'
+      - '.README.md'
       - '.github/workflows/writeup_readme.yml'
 
 jobs:
