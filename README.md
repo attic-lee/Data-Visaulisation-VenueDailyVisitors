@@ -1,7 +1,3 @@
-﻿COMP-1800 Data Visualisation 
-
-Name: Chun Hin Attic Lee Student ID: 001183418 Submission date: 8/4/2022 
-
 **Introduction** 
 
 Data visualisation is representing the data that is visualise to graphical elements for the readers, it allows readers to understanding the trend, pattern, and the relationships of the information very quickly and easily. illustration is easier to interpret by people as it does not require any training and it acts as a universal language among people. For example, a relationship between different variation can be observed through a scatter plot, a line graph can represent how the product performs over time, and a histogram can visualise the distribution of the data over certain period. Data visualisation is an excellent way allows user to interact and have a clear idea with the data, hence produce new insight in their business. This data visualisation report is to investigate the data of individual customers visiting venues of ChrisCo using its loyalty card scheme. 
