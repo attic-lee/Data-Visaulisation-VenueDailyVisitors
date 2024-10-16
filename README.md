@@ -1,3 +1,6 @@
+This is one of my master degree project.
+This data visualisation report is to investigate the data of individual customers visiting venues of ChrisCo using its loyalty card scheme.
+
 [PDF file of report](Report.pdf)
 ![writeup (1)-images-0](https://github.com/user-attachments/assets/b8f84165-69ab-455b-a07b-ef323836b15c)
 ![writeup (1)-images-1](https://github.com/user-attachments/assets/1895a4fb-07ea-44ce-8cff-1b7dd11783aa)
