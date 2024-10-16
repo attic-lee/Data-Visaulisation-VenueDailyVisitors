@@ -1,4 +1,4 @@
-![](writeup.pdf)
+![PDF for better visability on graphs](pdf.pdf)
 
 **Introduction** 
 
