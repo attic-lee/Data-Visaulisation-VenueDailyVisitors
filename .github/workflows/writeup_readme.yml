@@ -7,7 +7,7 @@ on:
       - 'master'
     paths:
       - 'writeup.pdf'
-      - '.README.md'
+      - 'README.md'
       - '.github/workflows/writeup_readme.yml'
 
 jobs:
@@ -33,8 +33,8 @@ jobs:
     - name: Commit images to orphan branch
       run: | 
         git checkout --orphan ${{env.ORPHAN_BRANCH}}
-        touch .README.md
-        mv .README.md .README.temp
+        touch README.md
+        mv README.md README.temp
         git rm -rf .
         git add *.jpg
         git config --local user.email "action@github.com"
