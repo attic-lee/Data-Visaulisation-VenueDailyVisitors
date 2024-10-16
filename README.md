@@ -6,7 +6,7 @@ Data visualisation is representing the data that is visualise to graphical eleme
 
 1\.  
 
-![](Aspose.Words.e66ce881-e7cb-4828-a719-b33cdac2bdf9.001.png)
+![](.github/images/Aspose.Words.e66ce881-e7cb-4828-a719-b33cdac2bdf9.001.png)
 
 *Figure 1 Bar chart of Total Visits of All Venues* 
 
@@ -16,7 +16,7 @@ The bar charts shows that there are 3 group of venue can be segmented into 3 dif
 
  
 
-![](Aspose.Words.e66ce881-e7cb-4828-a719-b33cdac2bdf9.002.png)
+![](.github/images/Aspose.Words.e66ce881-e7cb-4828-a719-b33cdac2bdf9.002.png)
 
 *Figure 2 High Volume Venues Number of Visitors Over Time* 
 
@@ -29,7 +29,7 @@ Although the number of visitors increased afterward, the growth of ‘PXI’ is 
 
 3\.  
 
-![](Aspose.Words.e66ce881-e7cb-4828-a719-b33cdac2bdf9.003.png)
+![](.github/images/Aspose.Words.e66ce881-e7cb-4828-a719-b33cdac2bdf9.003.png)
 
 *Figure 3 Line Graph of 8 Least Visitor Venues* 
 
@@ -41,7 +41,7 @@ From this line plot, which indicates ‘XXO’ and ‘ZPL’ were closed during 
 
  
 
-![](Aspose.Words.e66ce881-e7cb-4828-a719-b33cdac2bdf9.004.jpeg)
+![](.github/images/Aspose.Words.e66ce881-e7cb-4828-a719-b33cdac2bdf9.004.jpeg)
 
 *Figure 4 Line plot of High and Medium Volume Venues for seasonality* 
 
@@ -51,7 +51,7 @@ In Figure 4, every venue in high and medium volume has the same pattern. By usin
 
  
 
-![](Aspose.Words.e66ce881-e7cb-4828-a719-b33cdac2bdf9.005.png)
+![](.github/images/Aspose.Words.e66ce881-e7cb-4828-a719-b33cdac2bdf9.005.png)
 
 *Figure 5 Correlation Heatmap of High Volume Venues* 
 
@@ -68,7 +68,7 @@ Negative correlation means one variable increases as the other decreases. In Hig
 
  
 
-![](Aspose.Words.e66ce881-e7cb-4828-a719-b33cdac2bdf9.006.png)
+![](.github/images/Aspose.Words.e66ce881-e7cb-4828-a719-b33cdac2bdf9.006.png)
 
 *Figure 6 Relationship between Distance and Duration in High volume venue* 
 
@@ -81,7 +81,7 @@ they might tend to spend more time in the venue as a reward for the effort to tr
 
  
 
-![](Aspose.Words.e66ce881-e7cb-4828-a719-b33cdac2bdf9.007.jpeg)
+![](.github/images/Aspose.Words.e66ce881-e7cb-4828-a719-b33cdac2bdf9.007.jpeg)
 
 *Figure 7 Relationship between spend, age, and duration in medium volume venue* 
 
@@ -91,7 +91,7 @@ Figure 7 shows that there is a positive correlation of the data as the X axis an
 
  
 
-   ![](Aspose.Words.e66ce881-e7cb-4828-a719-b33cdac2bdf9.008.png)
+   ![](.github/images/Aspose.Words.e66ce881-e7cb-4828-a719-b33cdac2bdf9.008.png)
 
 *Figure 8 Radar plot of variables of low volume venues* 
 
